@@ -3,7 +3,7 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
  
-
+<img alt="loficity" width="800px" src="https://www.mage.space/c/b38585ff3e0247f6a93dde335a20ebc7"</img>
 <h1 align="center">Hi 👋, I'm Sefa</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
