@@ -6,7 +6,7 @@
 
 
  
-<img alt="loficity" width="800px" src="![b38585ff3e0247f6a93dde335a20ebc7](https://github.com/sefaozer/sefaozer/assets/28008203/b0604f44-6a0e-4a90-bcf8-4b62d9d22d7b)"</img>
+
 <h1 align="center">Hi 👋, I'm Sefa</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
