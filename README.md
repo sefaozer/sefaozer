@@ -8,7 +8,9 @@
  
 
 <h1 align="center">Hi 👋, I'm Sefa</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">I am an Frontend Developer & Electronic Engineer.  
+I provide developer with tools, scripts and automation to improve their Developer Experience
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sefaozer" alt="sefaozer" /></a> </p>
 
